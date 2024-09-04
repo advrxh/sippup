@@ -1,0 +1,14 @@
+{
+  "name": "sippup",
+  "version": "1.0.0",
+  "description": "IPP Print server implementation for document upload.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "IPP"
+  ],
+  "author": "Aadil Varsh",
+  "license": "ISC"
+}
