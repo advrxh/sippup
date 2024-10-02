@@ -1,6 +1,6 @@
 {
   "name": "sippup",
-  "version": "0.0",
+  "version": "0.0.1",
   "description": "IPP Print server implementation for document upload.",
   "main": "index.js",
   "scripts": {
